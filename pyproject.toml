@@ -19,7 +19,7 @@ python = "^3.8"
 beautifulsoup4 = "4.11.1"
 "ruamel.yaml" = "0.17.32"
 cloudscraper = "1.2.71"
-requests = "2.31.0"
+requests = "2.32.2"
 aiohttp = {extras = ["speedups"], version = "3.8.4"}
 price-parser = "0.3.4"
 # UI based dependencies
